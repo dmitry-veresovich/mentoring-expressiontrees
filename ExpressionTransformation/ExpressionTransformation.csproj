@@ -44,7 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ExpressionTransformer.cs" />
+    <Compile Include="ParamsReplacer.cs" />
+    <Compile Include="Tests.cs" />
+    <Compile Include="IncDecReplacer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
